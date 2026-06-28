@@ -1,4 +1,4 @@
-# 🧬 Hello, I'm [Meesha Muthamma]
+# 🧬 Hello, I'm Meesha Muthamma
 ### Future Bioinformatics Researcher | NEET Aspirant
 <!-- Live Profile Badges -->
 ![Google Sheets](https://shields.io)
