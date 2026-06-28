@@ -1,5 +1,12 @@
 # 🧬 Hello, I'm [Meesha Muthamma]
 ### Future Bioinformatics Researcher | NEET Aspirant
+<!-- Live Profile Badges -->
+![Google Sheets](https://shields.io)
+![Markdown](https://shields.io)
+![GitHub](https://shields.io)
+
+<!-- Live Profile Counter -->
+📊 *Profile Views:* ![Visitor Counter](https://komarev.com)
 
 Welcome to my research profile! I am currently preparing for the NEET exam while building foundational skills in computational biology.
 
