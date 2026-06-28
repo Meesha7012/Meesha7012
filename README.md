@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🧬 Hello, I'm [Meesha Muthamma]
+### Future Bioinformatics Researcher | NEET Aspirant
 
-<!--
-**Meesha7012/Meesha7012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my research profile! I am currently preparing for the NEET exam while building foundational skills in computational biology.
 
-Here are some ideas to get you started:
+## 🚀 Technical Skills mastered Today
+* **Data Analysis:** Google Sheets (Dynamic cell referencing, `LEN`, `COUNTIF`)
+* **Documentation:** Markdown syntax, Version control basics
+* **Tools:** GitHub Profile Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Bioinformatics Interests
+1. **Genomics:** Analyzing DNA sequence mutations.
+2. **Structural Biology:** 3D protein visualization and molecular docking.
+
+> "The best way to predict the future is to invent it." — Alan Kay
